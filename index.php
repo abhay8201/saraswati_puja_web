@@ -69,7 +69,7 @@
 					<img src="assets/images/sw1.png" alt="Foreground Image" class="Swastik">
 						<b class="about">
 							<h3>Why we celebrate Saraswati Puja?</h3>
-							Saraswati Puja is performed for devotion to the Goddess of knowledge and wisdom. The Goddess of learning is worshiped among the students and learned who firmly follow all the customs to worship her. The festivities that go along with Saraswati pooja is a division of the social celebrations. On this day, small girls are seen in yellow saaries. Bright Palash flowers are offered as Pushpanjali along with chanting mantras that is a significant part of the worship.
+							Saraswati Puja is performed for devotion to the Goddess of knowledge and wisdom. The Goddess of learning is worshiped among students and learned who firmly follow all the customs to worship her. The festivities that go along with Saraswati pooja is a division of the social celebrations. On this day, small girls are seen in yellow saaries. Bright Palash flowers are offered as Pushpanjali along with chanting mantras that is a significant part of the worship.
 						</b>
 
 				</div>
